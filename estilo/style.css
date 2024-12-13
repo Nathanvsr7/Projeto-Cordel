@@ -16,7 +16,7 @@
 }   
 
 html body{
-    min-height: 100%;
+    min-height: 96%;
     background-color:darkgrey;
     font-family: var(--font1);
 }
