@@ -15,8 +15,8 @@
     padding: 0px;
 }   
 
-html body{
-    min-height: 96%;
+html, body{
+    min-height: 96vh;
     background-color:darkgrey;
     font-family: var(--font1);
 }
